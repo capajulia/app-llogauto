@@ -14,6 +14,13 @@ public class Automobil {
         comptador++;
     }
 
+        Automobil(){
+        this.marca = "";
+        this.model = "";
+        this.matricula = "";
+        comptador --;
+    }
+
     public String mostrarDades(){
         return " marca : " + this.marca + "   model: " + this.model + "  matricula:" + this.matricula;
     }
