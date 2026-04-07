@@ -1,6 +1,6 @@
 package com.llogauto;
 
-public class Concessionari {
+public class Main {
     public static void main(String[] args) {
 
         Automobil auto1= new Automobil();
