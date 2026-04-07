@@ -21,5 +21,12 @@ public class Main {
         auto3.setModel("Golf");
         auto3.setMatricula("2222ABC");
         System.out.println(auto3.mostrarDades());
+
+
+
+
+
+
     }
+
 }
